@@ -2,7 +2,6 @@
   "manifest_version": 3,
   "name": "Miply Tabs",
   "version": "0.0.0.1",
-  "default_locale": "en",
   "description": "Miply Tabs allows you to save and track your tabs for ease of management and access. Gone are the days of drowing in 'too many tabs'",
   "author": "Akif Manzoor"
 }
